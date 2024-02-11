@@ -1,11 +1,11 @@
 # 7CNeedle
 # https://gamebanana.com/mods/457619
 
-RecordCount: 636
+RecordCount: 680
 
 console load 7Cneedle/Th3rox/7Cneedle
  191
-***S
+#***S
    
 
 #Start
@@ -20,7 +20,7 @@ console load 7Cneedle/Th3rox/7Cneedle
    7,L,D,K
   13,L
    1,L,J
-***S
+#***S
   14,L
    4,L,J
    8,R,J
@@ -31,12 +31,12 @@ console load 7Cneedle/Th3rox/7Cneedle
    3,L,K
    9,K
   12
-***S
+#***S
   15,R,D,J
    2,L
   10,L,K
   14,R,K
-***S
+#***S
   26,R,J
    5,R,D
   11,R,D,J
@@ -44,20 +44,20 @@ console load 7Cneedle/Th3rox/7Cneedle
   10,D
    7,L,D
   10,D
-***S
+#***S
    9,R,D
    1,R,J
   20,R
   15,R,J
    4,R,K
-***S
+#***S
   15,R
    4,L
   10,L,D,J
   10,J
    5,K
   55,R,K
-***S
+#***S
    8,R,D,J
    3,J
   10,L,J
@@ -65,7 +65,7 @@ console load 7Cneedle/Th3rox/7Cneedle
    4,L,J
   20,J
   10,K
-***S
+#***S
    7
    1,D,J
    6,R,J
@@ -79,7 +79,7 @@ console load 7Cneedle/Th3rox/7Cneedle
    4,R,J
    4,R,K
   32,R,J
-***S
+#***S
    1,L,K
    4,R,K
   24,R
@@ -91,7 +91,7 @@ console load 7Cneedle/Th3rox/7Cneedle
    1,J
    6,L,J
    2
-***S
+#***S
    4,L,D
    9,D
   12,R,D
@@ -104,9 +104,9 @@ console load 7Cneedle/Th3rox/7Cneedle
    7,R,K
    4,R,J
    4,R,K
-***S
+#***S
  196
-***S
+#***S
    7,L,D,J
    8,R,J
   18,R,K,P
@@ -119,12 +119,12 @@ console load 7Cneedle/Th3rox/7Cneedle
   15,K
    5,L,J
   12,J
-***S
+#***S
   15,K
   26,L,K
   19,R,D
    8,R,J
-***S
+#***S
   13,R
   20,R,J
    2,R,K
@@ -136,7 +136,7 @@ console load 7Cneedle/Th3rox/7Cneedle
    5,R,K
    1,J
    9,R,J
-***S
+#***S
   27,R
    5,R,J
    9,R
@@ -145,7 +145,7 @@ console load 7Cneedle/Th3rox/7Cneedle
   46,D
    7,L,D
    5,L
-***S
+#***S
    5,L
   22,L
   12,L,J
@@ -154,7 +154,7 @@ console load 7Cneedle/Th3rox/7Cneedle
   13,R,J
   26,R,D
    4,R,J
-***S
+#***S
   24,R
    6,R,J
    8,R,K
@@ -162,14 +162,14 @@ console load 7Cneedle/Th3rox/7Cneedle
   24,R,D,J
    1,R,K
   12,R
-***S
+#***S
    2
   13,D,J
-  20,K,F,
+  20,K
    5,L,J
    7,R,J
    7,J
-***S
+#***S
   11,K
    7,L,J
    1,L
@@ -177,10 +177,12 @@ console load 7Cneedle/Th3rox/7Cneedle
    2,L
    9,L,K
    6,L,J
-***S
-  20,R,J
+#***S
+  18,R,J
    1,R,K
   12,K
-  16,R,K
-  14,R,J
+  17,R,K
+  36,R,J
+  10,R,K
+   1,R
  100,R,J
