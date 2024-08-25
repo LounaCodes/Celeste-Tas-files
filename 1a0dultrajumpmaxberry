@@ -1,3 +1,4 @@
+#TAS written by: Ratatouy & Yee
 RecordCount: 4265
 
 console load 1
@@ -1286,3 +1287,7 @@ EndRepeat
    2,R,J
    5,R,D,X
  100,R
+
+
+
+  
