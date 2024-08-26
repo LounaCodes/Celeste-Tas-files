@@ -1,5 +1,6 @@
 #TAS written by: Ratatouy & Yee
-RecordCount: 4265
+#2 extra berries found by celeritytas
+RecordCount: 4611
 
 console load 1
    1
@@ -45,24 +46,67 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   27,R,D
   13,R,J
    1,R,K,G
-  11,K
-  12,R,J
-  12,L,K
-  12,J,G
+  13,R
+   4,R,J
    1,K,G
-   1,R,K
    1,L,K
-  11,J,G
-   1,R,J
-   3,R,K,G
+   1,R,K
+   1,J,G
+   8
+   1,L,J
+   1,L
+   4,L,K,G
+   1,R,J,G
+   3,L,J
    1,J
+   3,L,J
+   5,L
+   3,L,J
+   3,L
+   1,K,G
+   2,L
+   7,L,K
+   2,R,K
+   1,R,G
+  11,K,G
+   1,L,K
+   9,L,J
+  14,L
+   1,L,K,G
+   3,L,D
+  20,R,D
+  16,D
+   7,R,J
+  21,R,K,G
+   6,R,J,G
+   9,R
+   2,R,J
+  16,R,D
+   1,R
+   8,R,J
+   4,L,J
+  21,R,K,G
+  11,L,J
+  11,R,K
+  11,L,J
+   4,L,K,G
+   1,J
+   1,K,G
+   4,R,K
+   6,L,K
+   1,R,J,G
+   1,R,K,G
+   1,J
+
+ 
+
 
 
 #lvl_3
   40
    3,R,J,G
    2
-  16,R,J
+  14,R,J
    1,K,G
    1,L,K
    1,J
@@ -1016,20 +1060,71 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #lvl_10 (2)
    1,R,J
-  19,R
+  42,R
+   7
+   2,L
+   1,J
+Repeat 4
+   1,L,J
+   1,J
+EndRepeat
+   1,K
+  11,K
+   7,L
+   2,L,J,G
+  11,L
+  18,L,J
+   1,R,K,G
+   2,L,K
+   5,L
+   1,J
+   1,K,G
+   5,R,K
+   1,J
+  41
+
+
+#lvl_11
+   2,R
+   1,J,G
+   2
+  11,R
    1,R,J
-  14,R
-   4,L
-   8,R,J,G
+  16,R
+   1,R,J
+   4,R
+   1,R,J,G
+   2,R
+   1,R,J,G
+   5,R
+   2,R,J
+   1,J
+   1,K
+  23,R,J,G
+   7,R,K,G
    1,R
-  17,R,D
-  60,L,D
+  22,R,J
+   4,R,K
+   1,R
+  26,R,J
+   2,R,D
+   6,L,D
+   1,L,J
+  78,L,D
+
+
+#lvl_10 (3)
+   1,J
+  45,R,D
+  17,L
+  40,J
 
 
 #lvl_9b (2)
-  10,L
-   8,L,D
-  26,R,G
+  18,L,J
+  12,R,D
+
+  25,R,G
    1,R,J,G
    1,R,K,G
   26,R,D
@@ -1289,5 +1384,6 @@ EndRepeat
  100,R
 
 
+ChapterTime: 2:39.273(9369)
 
   
