@@ -1,0 +1,152 @@
+RecordCount: 327
+# 5c but with 56 seekers
+
+console load watchoutforeg/5Cbutwith56seekers/5Cbutwith56seekersineveryroom
+ 191
+   1,Q
+   1,J
+  30
+#StartRecording
+#Start
+ 191
+#***S
+   5,R,D,X
+   1,R,J
+  20,L,J
+   5,R,U,X
+  13,R,J
+   2,R,K,G
+   1,R
+   5,R,J,G
+   9,R,D
+#***S
+   7,R,J
+   5,R,D,X
+  31,R,J
+   5,R,U,X
+  19,R,J
+   5,R,D,X
+#***S
+  25,R,D
+   5,R,U,Z
+  10,R,J
+   6,L,J
+  23,R,J
+   5,R,D,X
+  21,R,J
+   5,Z
+  38,R,D
+   5,R,D,X
+   3,R,J
+  40
+
+#lvl_01
+#***S
+  60,L,J
+   5,L,D,X
+  27,L,D
+   8,D
+   5,R,D,X
+   6,R,D
+  10,R,J
+#***S
+   2,R
+  15,R,D
+   5,L,Z
+  25,J
+  42,R,D
+   2,R
+   3,R,J
+   5,Z
+  18,R
+   5,R,D,X
+   8,R,J
+   5,R,K,G
+  40
+
+#lvl_03
+#***S
+  10,R,J
+   5,X
+  19
+   5,R,D,X
+  27,R,J
+   4,R
+   5,Z
+#***S
+  24,L,D
+   5,R,U,X
+  22
+   5,L,U,X
+  13,L
+   5,R,D,X
+  31
+   5,Z
+#***S
+  11
+   5,L,J,G
+  17,R,J
+   5,Z
+  34,R,D
+   5,D,X
+   1,D
+   1,J,G
+  10
+   8,R,J,G
+  10,L
+   1,J
+   1,R
+  39,R,J
+   5,U,X
+#***S
+   9,R
+   3,J
+  22,R,J
+   5,R,D,X
+  61,R,D
+   5,D,X
+  33,D
+   8,R,D
+   5,R,J
+   5,Z
+   9
+   5,X
+#***S
+  19
+   5,U,X
+   6
+  11,R,J,G
+  28,R,D
+   5,R,D,X
+  19,R,J
+   5,X
+  58
+   5,R,U,X
+  40,R,D
+#***S
+   4,L,D
+   5,R,Z
+  10
+   5,U,X
+  13
+   5,X
+  23,R
+   5,U,X
+  39,R,D
+   5,X
+  26,R
+   5,X
+  19,R,J
+#***S
+   5,R,K,G
+   9,R
+   5,X
+   6
+  12,J
+  12,K,G
+  90,L,J,G
+#***S
+   1,K,G
+  10,R,K
+   5,L,X
+ 100
