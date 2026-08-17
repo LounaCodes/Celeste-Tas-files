@@ -9,7 +9,8 @@ set ExtendedVariantMode.SnowballsEverywhere true
 set ExtendedVariantMode.OshiroEverywhere true
 set ExtendedVariantMode.SetSeed 3
 #Start
-# This only works with a slightly modified version of Extended Variants, that sets the seed when the TAS starts. This can be found on my GitHub
+# This only works with a slightly modified version of Extended Variants, that sets the seed when the TAS starts.
+# My Patched version: https://github.com/LounaCodes/ExtendedVariantMode on the 'internal seeding' branch
 # Reload before starting the TAS
 console load 7
  325
