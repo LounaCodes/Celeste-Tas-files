@@ -1,12 +1,12 @@
 #TAS written by: Ratatouy & Yee
 #2 extra berries found by celeritytas
-RecordCount: 4611
+RecordCount: 4612
 
 console load 1
    1
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
-
+StartRecording
 #Start
   88
    1,R,J
@@ -98,7 +98,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,R,K,G
    1,J
 
- 
+
 
 
 
@@ -319,7 +319,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,K
 
 
-#lvl_6
+#lvl_6 (0)
   40
    3
    2
@@ -445,7 +445,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    9
 
 
-#lvl_6
+#lvl_6 (1)
   40
    3,R
   15,R,J
@@ -902,7 +902,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   58,D
 
 
-#lvl_8 (3)
+#lvl_8
   12,L,D
    2,J,G
   22,R,J
@@ -916,7 +916,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   44,R
 
 
-#lvl_8b
+#lvl_8b (0)
   17,R,D,J
    7,D
   32,R,J,G
@@ -936,7 +936,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   51
 
 
-#lvl_8b
+#lvl_8b (1)
    2,R
   12,R,J
    3,K,G
@@ -961,7 +961,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,R,J
 
 
-#lvl_9b (1)
+#lvl_9b (0)
   54,R
   10,R,J
    8,J
@@ -986,7 +986,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   48,K
 
 
-#lvl_10 (1)
+#lvl_10 (0)
    4,L
    1,L,J,G
    2,L,K,G
@@ -1002,7 +1002,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   52,L
 
 
-#lvl_10z (1)
+#lvl_10z (0)
    9,L,J
    7,L
   14,L,J,G
@@ -1035,7 +1035,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   54,R
 
 
-#lvl_10z (2)
+#lvl_10z (1)
    1,R,J
    8,R,D
   16,D
@@ -1058,7 +1058,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   55,R,D
 
 
-#lvl_10 (2)
+#lvl_10 (1)
    1,R,J
   42,R
    7
@@ -1084,7 +1084,7 @@ EndRepeat
   41
 
 
-#lvl_11
+#lvl_11 (0)
    2,R
    1,J,G
    2
@@ -1113,14 +1113,14 @@ EndRepeat
   78,L,D
 
 
-#lvl_10 (3)
+#lvl_10 (2)
    1,J
   45,R,D
   17,L
   40,J
 
 
-#lvl_9b (2)
+#lvl_9b (1)
   18,L,J
   12,R,D
 
@@ -1175,7 +1175,7 @@ EndRepeat
   46,L
 
 
-#lvl_9b (3)
+#lvl_9b (2)
    5,R
    1,L,J
   20,R,J
@@ -1220,7 +1220,7 @@ EndRepeat
   42
 
 
-#lvl_11
+#lvl_11 (1)
    1,L,J,G
   12,L,K,G
    2,L,J,G
@@ -1250,7 +1250,7 @@ EndRepeat
   40
 
 
-#lvl_12 (1)
+#lvl_12 (0)
   12,R,J
    3,R,K,G
   23,R
@@ -1309,7 +1309,7 @@ EndRepeat
   50,R
 
 
-#lvl_12
+#lvl_12 (1)
    1,R,J,G
    8,R,G
    9,L,D
@@ -1383,7 +1383,6 @@ EndRepeat
    5,R,D,X
  100,R
 
-
 ChapterTime: 2:39.273(9369)
 
-  
+StopRecording

@@ -2,7 +2,6 @@ console reset_vanilla_variants
 console reset_extended_variants
 set ExtendedVariantMode.AddSeekers 5
 set ExtendedVariantMode.BadelineChasersEverywhere true
-set ExtendedVariantMode.ChaserCount 5
 set ExtendedVariantMode.BadelineBossesEverywhere true
 set ExtendedVariantMode.BadelineAttackPattern 4
 set ExtendedVariantMode.SnowballsEverywhere true
@@ -12,6 +11,7 @@ set ExtendedVariantMode.SetSeed 3
 # This only works with a slightly modified version of Extended Variants, that sets the seed when the TAS starts.
 # My Patched version: https://github.com/LounaCodes/ExtendedVariantMode on the 'internal seeding' branch
 # Reload before starting the TAS
+StartRecording
 console load 7
  325
 # ***
@@ -571,6 +571,7 @@ console load 7
 
 #lvl_c-00
 # ***S
+# ***
    5,R,D,X
    6,R,J
    4,R,K,G
@@ -597,5 +598,67 @@ console load 7
    3,R,K
    5,R,D,X
   16,R,D
+# ***S
    5,U,X
- 100
+  27
+   5,U,X
+   1
+  40
+
+#lvl_c-01
+# ***S
+  10,R,J
+   2,R
+   5,X
+   9
+   1,R,J,G
+   5,R,U,X
+  39
+   5,U,X
+  10
+   5,L,U,X
+  35
+   5,R,U,X
+  35
+# ***S
+   5,L,X
+  24
+   4,L,J
+  12,L,J
+   5,U,X
+   9
+  40
+
+#lvl_c-02
+# ***S
+  28,R,J
+   5,R,U,X
+  24,R,J
+   5,U,X
+  20,D
+  28,R,D
+   5,R,D,X
+  13,R
+   5,J,Z
+  20,R,J
+# ***S
+   5,R,U,X
+   3
+  25,R,J,G
+   5,R,U,X
+  29,R
+   5,U,Z
+  52,L
+# ***S
+   5,U,Z
+  12,L
+   1,L,J
+   1,L,K
+  15,L,J
+   5,U,X
+   4
+  40
+
+
+
+StopRecording
