@@ -11,7 +11,7 @@ set ExtendedVariantMode.SetSeed 3
 # This only works with a slightly modified version of Extended Variants, that sets the seed when the TAS starts.
 # My Patched version: https://github.com/LounaCodes/ExtendedVariantMode on the 'internal seeding' branch
 # Reload before starting the TAS
-StartRecording
+#StartRecording
 console load 7
  325
 # ***
@@ -658,7 +658,43 @@ console load 7
    5,U,X
    4
   40
+#lvl_c-03
+# ***S
+  11,R,J
+   5,X
+  10
+   5,R,U,X
+  13
+   5,Z
+   2,R,J
+  10,R
+   5,D,X
+  10,R
+   5,X
+  10
+   5,X
+  16,R,J
+   5,R,U,X
+  22
+# ***
+   5,Z
+   1,R,J
+  34,R,D
+   5,Z
+  35
+# ***
+   4,R,J
+  20,R,K
+   5,R,U,X
+  10
+   5,X
+  49,R
+   4,R,J
+   3,R,K
+  40
+
+#lvl_c-04
 
 
 
-StopRecording
+#StopRecording
